@@ -81,21 +81,6 @@ python manage.py runserver
 
 ---
 
-## 📸 UI Preview
-
-### 🏠 Student List Page
-
-(Add screenshot here)
-
-### ➕ Add Student Page
-
-(Add screenshot here)
-
-### ✏️ Update Page
-
-(Add screenshot here)
-
----
 
 ## 🔮 Future Improvements
 
@@ -115,8 +100,7 @@ Pull requests are welcome. For major changes, please open an issue first.
 
 ## 👨‍💻 Author
 
-Your Name
-Your College Name
+Devkumar
 
 ---
 
